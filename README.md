@@ -227,8 +227,6 @@ Features:
 
 💼 LinkedIn: https://www.linkedin.com/in/pradyuth-putcha-6b4034312/
 
-🌐 Portfolio: Add Your Portfolio Website
-
 📍 Hyderabad, Telangana, India
 
 ---
